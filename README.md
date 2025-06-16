@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi I'm Yul 👋
 
-- I write C++ code.
+- I write C++ and Swift code.
 
 <!--
 **kangyul/kangyul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
